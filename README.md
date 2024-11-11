@@ -15,5 +15,5 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   </div><br/>
 
-  Faço Ciências da Computação na Universidade Salvador, sou apaixonado por tecnologia e programação.
+  Estudo Ciências da Computação na Universidade Salvador, sou apaixonado por tecnologia e programação.
   
